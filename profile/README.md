@@ -14,7 +14,7 @@ We publish an **open tier** under Apache-2.0: public-records data, shared schema
 |---|---|
 | [sovereign-supply-chain-commons](https://github.com/Element-Ventures-Canada-Ltd/sovereign-supply-chain-commons) | Open tier of a jurisdiction-controlled supply-chain intelligence platform: who supplies what, who controls them, and where the chokepoints are. Public records only. |
 | [openchokepoint](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint) | An open grammar for supply-chain dependency registries. Early release. |
-| [openposture](https://github.com/Element-Ventures-Canada-Ltd/openposture) | Open shell of the PHAROS Alpha prototype: public facts on what evidence is present or missing. |
+| [pharos-alpha](https://github.com/Element-Ventures-Canada-Ltd/pharos-alpha) | Open shell of the PHAROS Alpha prototype: public facts on what evidence is present or missing. |
 | [open-sovereign-research](https://github.com/Element-Ventures-Canada-Ltd/open-sovereign-research) | Research on where a middle power can hold supply-chain and decision capability: the Sovereign Seam rubric, cited readings, public evaluations and papers. |
 
 ## Contributing
