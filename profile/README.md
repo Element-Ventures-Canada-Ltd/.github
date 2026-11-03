@@ -1,6 +1,6 @@
 # Element Ventures (Canada) Ltd.
 
-**Sovereign Operating Intelligence™** — open infrastructure for supply-chain and decision capability that stays under the control of the jurisdiction that relies on it.
+**Sovereign Operating Intelligence™** — open infrastructure for supply-chain and risk-intelligence decision capability that stays under the control of the jurisdiction that relies on it.
 
 Vancouver, Canada · [elementventures.ca](https://elementventures.ca)
 
